@@ -28,7 +28,7 @@ else:
     return ("Carpe diem")
 ```
 ## Proud Fact about me
-I am **@Google Sponsposerd** <br> Women Tech Makers ambassador for Rochester and Google Developers Group Assistant Organizer<br><br>
+I am **@Google Sponsored** <br> Women Tech Makers ambassador for Rochester and Google Developers Group Assistant Organizer<br><br>
 [Women Tech Makers](https://www.womentechmakers.com/ambassadors/nabiha-raza) <br>
 [GDG Rochester Website](https://gdg-rochester.firebaseapp.com/team) <br>
 [GDG Rochester Meetup Page](https://www.meetup.com/GDG-Rochester/) 
