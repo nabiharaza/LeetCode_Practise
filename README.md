@@ -15,13 +15,15 @@ Mobile:
 
 ## More interested in what I do and what are my goals?
 
-How about go and check out my resume https://github.com/nabiharaza/Resume/blob/master/Resume__Nabiha_Raza.pdf
-or check out my persoal website https://www.cs.rit.edu/~nr6024/
-or maybe a linkedIn https://www.linkedin.com/in/nabiha-raza/
+How about go and check out [my resume](https://github.com/nabiharaza/Resume/blob/master/Resume__Nabiha_Raza.pdf) 
+or check out my [personal website](https://www.cs.rit.edu/~nr6024/)
+or maybe a [linkedIn](https://www.linkedin.com/in/nabiha-raza/)
 
 I think thats makes me pretty much reachable now :)
 
+```python
 if coding_result == "stressful":
     return ("Sip Coffee & Watch Silicon Valley")
 else:
     return ("Carpe diem")
+```
