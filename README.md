@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My LeetCode Practice Page
 
-You can use the [editor on GitHub](https://github.com/nabiharaza/LeetCode_Practise/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+There is a lot of collection of the daily codes that are asked by the Software Tech Companies.
+Right now I am trying to complete the most frequently seen questions in our coding rounds and phone interviews.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nabiharaza/LeetCode_Practise/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Your Help and Contribution
+You can always point out if something is wrong or some test cases are not. Even though ofcourse these are pushed once the Leetcode question is passed however, I AM ALWAYS OPEN TO LEARNING - or effienint learning
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages?
+Send me an email nabiha_137@hotmail.com or nr6024@rit.edu
+
+Mobile:
+646-916-5645
+
