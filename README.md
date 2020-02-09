@@ -12,9 +12,9 @@ Whatever maybe the reason, shoot me an email at nabiha_137@hotmail.com or nr6024
 
 ## More interested in what I do and what are my goals?
 
-How about go and check out [my resume](https://github.com/nabiharaza/Resume/blob/master/Resume__Nabiha_Raza.pdf) 
-or check out my [personal website](https://www.cs.rit.edu/~nr6024/)
-or maybe a [linkedIn](https://www.linkedin.com/in/nabiha-raza/)
+How about go and check out **[my resume]**(https://github.com/nabiharaza/Resume/blob/master/Resume__Nabiha_Raza.pdf) 
+or check out my **[personal website]**(https://www.cs.rit.edu/~nr6024/)
+or maybe a **[linkedIn]**(https://www.linkedin.com/in/nabiha-raza/)
 
 I think thats makes me pretty much reachable now :)
 
